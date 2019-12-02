@@ -1,4 +1,4 @@
-#Insider Jira Dropdown Chrome Extension Privacy Policy
+# **Insider Jira Dropdown Chrome Extension Privacy Policy**
 
 **Privacy Policy of Insider Jira Dropdown Chrome Extension**
 
