@@ -33,5 +33,4 @@ If we make major changes in the way we collect or use information, we will notif
 
 **Contact Information**
 
-Please contact Setra Genyang Wicana with any questions or comment about this Privacy Policy or the extension use or disclosure of user information by email at gw.setra@gmail.com or by phone to (+90)552-320-3512
-
+Please contact Setra Genyang Wicana with any questions or comment about this Privacy Policy or the extension use or disclosure of user information by email at gw.setra@gmail.com.
