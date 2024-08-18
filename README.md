@@ -5,6 +5,4 @@ With this Jira Extension you can type your partner name while creating your Jira
 This extension must be use for INTERNAL USAGE only.
 
 For question and bug reports please contact:
-setra@useinsider.com 
-or
 gw.setra@gmail.com
